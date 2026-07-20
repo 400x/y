@@ -1,0 +1,39 @@
+name: publish tg.txt to tg.html
+
+on:
+  push:
+    paths:
+      - 'tg.txt'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: generate tg.html from tg.txt
+        run: python tg.pub.py
+
+      - name: Commit and push tg.html
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tg.html
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "generate tg.html from tg.txt"
+            git push
+            echo "tg.html updated and pushed"
+          fi
