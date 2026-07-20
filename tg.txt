@@ -33,6 +33,6 @@ https://t.me/proxy?server=tg.deepwoof.net&port=443&secret=ee6164732e78352e727530
 https://t.me/proxy?server=tg2.x6.homes&port=443&secret=dd9d137443c118caab90485732ae358230
 https://t.me/proxy?server=tg2.x6.homes&port=7443&secret=876b09f14db7c91c7db1989c38661f49
 https://t.me/proxy?server=tt2.myrka.digital&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c
+https://t.me/proxy?server=web.travobet.site&port=9443&secret=ee1f976102d29b1594d8af6f3d0dd09b67766b2e636f6d
 https://t.me/proxy?server=wisp.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 https://t.me/proxy?server=zilch.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-
