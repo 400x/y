@@ -38,7 +38,6 @@ https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b3
 https://t.me/proxy?server=proxy.vmelectronics.ru&port=443&secret=ee6164732e78352e72759c6509729477
 https://t.me/proxy?server=prx.migstart.ru&port=443&secret=8080f0bb8395a884940b8d59a77c3fd0
 https://t.me/proxy?server=prx03.gtgt.ru&port=443&secret=eeffb8ecadb37e893760b73778ed5a4ae974737665746f6d616e69612e7275
-https://t.me/proxy?server=russia.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=s3.postpulse.space&port=443&secret=eede09f27f5ed0877907c31d53a7aca5526164332e617269786f2e73686f70
 https://t.me/proxy?server=s6.postpulse.space&port=443&secret=ee179deb3806ddd388988092081a52ad766164332e617269786f2e73686f70
 https://t.me/proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
