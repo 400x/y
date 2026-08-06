@@ -1,25 +1,23 @@
 #profile-title: 🐹 f-Keys
-#announce: Generated 06 Aug [23]
+#announce: Generated 06 Aug [21]
 socks5://193.233.218.213:1080#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%40Raydikalx%20E30BF8
 socks5://176.65.140.216:1085#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%40Raydikalx%20F85854
 socks5://149.62.186.244:1080#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%40Raydikalx%209EF194
-socks5://test123:test123@185.145.99.41:1080#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%40Raydikalx%20F07DC8
 socks5://:@69.55.49.177:38182#US%20%F0%9F%87%BA%F0%9F%87%B8%20%40Raydikalx%200F1F5B
 socks5://2222:2222@43.100.106.218:2222#HK%20%F0%9F%87%AD%F0%9F%87%B0%20%40Raydikalx%20144889
-socks5://123:123@43.100.43.112:3060#HK%20%F0%9F%87%AD%F0%9F%87%B0%20%40Raydikalx%20C22EAA
 socks5://111:111@101.33.74.115:20000#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%40Raydikalx%205AB82A
-vless://b3a5f201-eeaf-40c8-909c-72f4860cefc8@172.67.176.31:8080?encryption=none&security=none&type=ws&host=orange-bonus-abd9.dalvandimohammadmahdi.workers.dev&path=/eyJqdW5rIjoiUWtMSnFJZFM2S3JnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6W119#CA%20%F0%9F%87%A8%F0%9F%87%A6%20%40Raydikalx%20A0B5A5
-vless://6cd78ec7-b715-471c-92b4-0c3842caea4b@104.25.122.72:80?encryption=none&security=none&type=ws&host=billowing-cloud-d339.sospanel.workers.dev&path=/eyJqdW5rIjoiVXRIT2UwaDUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=#CA%20%F0%9F%87%A8%F0%9F%87%A6%20%40Raydikalx%2013D1E3
-vless://c743b343-b1c9-4e44-98a9-274df2015727@139.64.166.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=cudJBi1zLMATgg_nlqMK5O6Lshlv8EQ2BBQjxbpF4AY&sid=eedf31ed&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20NL
-vless://18141f52-3898-490d-95f1-1608f412bf86@173.245.58.121:443?encryption=none&fp=chrome&host=node-1156018316-84eadd.silimem566.workers.dev&path=/&security=tls&sni=node-1156018316-84eadd.silimem566.workers.dev&type=ws#CA%20%F0%9F%87%A8%F0%9F%87%A6%20%40Raydikalx%206A40F2
-vless://58e78cf6-2b50-40fb-b6bf-ec7eae5b5000@hi.n2foriran.workers.dev:443?encryption=none&fp=chrome&host=hi.n2foriran.workers.dev&path=ws&security=tls&sni=hi.n2foriran.workers.dev&type=ws#CA%20%F0%9F%87%A8%F0%9F%87%A6%20%40Raydikalx%207B4B49
-vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@8.47.69.0:443?security=tls&type=ws&path=/&host=polshaov.ochmaybrooooo.online&alpn=http/1.1&sni=polshaov.ochmaybrooooo.online&fp=chrome#US%20%F0%9F%87%BA%F0%9F%87%B8%20%40Raydikalx%2047A28B
-vless://d682c8f4-e719-577e-cbe9-2e5b00000002@172.67.185.65:80?encryption=none&security=none&type=ws&host=0406.infinityconfig7.workers.dev&path=/sync#CA%20%F0%9F%87%A8%F0%9F%87%A6%20%40Raydikalx%2098B6CB
-trojan://ND91608427@careful-tadpole.rooster465.autos:443#FR%20%F0%9F%87%AB%F0%9F%87%B7%20%40Raydikalx%2001DBB8
+socks5://123:123@43.100.43.112:3060#HK%20%F0%9F%87%AD%F0%9F%87%B0%20%40Raydikalx%20C22EAA
+vless://7201b2cd-0675-4c1a-9c76-07ca14ffcf08@104.17.148.22:80?encryption=none&type=ws&host=6crihfknlqjdu3yuzco9phspq86dbp6q.christanmoccasin.workers.dev&path=/eyJqdW5rIjoiTlZxbGYyajQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20RU
+socks5://test123:test123@185.145.99.41:1080#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%40Raydikalx%20F07DC8
+vless://02ae7872-1c03-4214-8b95-14c126da831e@2.26.79.57:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&sni=pro-se.emrata.top#%F0%9F%87%AC%F0%9F%87%A7%20UK
+vless://25284d30-b4e6-4f86-b214-a78d4365ed05@85.209.135.10:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&security=reality&sid=a1b2c4d4a1b2c5d5&sni=www.sciencedirect.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%D1%8B%20-%20%20AirLinkVPNBot%20%7C0073%7C
+trojan://ND91608427@next-turkey.rooster465.autos:443?security=tls&sni=next-turkey.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20GE
 trojan://ND91608427@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%40Raydikalx%207CAE6D
-trojan://ND91608427@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&fp=chrome&type=tcp&path=/#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%40Raydikalx%20ACA66C
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.99:2096?type=ws&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Pioneer%29%20BL
-trojan://ND91608427@grateful-owl.rooster465.autos:443?sni=grateful-owl.rooster465.autos&fp=chrome&type=tcp&path=/#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%40Raydikalx%20DCAFB9
-trojan://ND91608427@moved-meerkat.rooster465.autos:443?sni=moved-meerkat.rooster465.autos&fp=chrome&type=tcp&path=/#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%40Raydikalx%2050E4C2
-vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4yMS41Ny44NCIsInBvcnQiOiI4NDQzIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsImFscG4iOiIiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBhdGgiOiIvbE1uc1pVTjQvIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCBDNzk4NkEifQ==
-vmess://eyJhZGQiOiJtdGNrdW5kaWdlcHd1M3VwLnYuM2Rucy52aXAiLCJhaWQiOjAsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0Ijo0NDMsInBzIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgRDc4RDg2Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@8.47.69.0:443?security=tls&type=ws&path=/&host=polshaov.ochmaybrooooo.online&alpn=http/1.1&sni=polshaov.ochmaybrooooo.online&fp=chrome#US%20%F0%9F%87%BA%F0%9F%87%B8%20%40Raydikalx%2047A28B
+vless://729a4d09-67a5-4e62-af06-68539f3d7721@31.58.50.200:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90
+vless://9b4c96f9-60e8-4694-b069-c46992390555@185.91.52.86:443?encryption=none&fp=safari&host=cloudflare.vhub.pro&path=%2Fwebsocket&pcs=dc554fddecc5fb70f55d439bc1e1c42acb5e7b8ebbcd85224aee41aad3b1c104&security=tls&sni=cloudflare.vhub.pro&type=ws#%F0%9F%87%A9%F0%9F%87%AA%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%D1%8B%20-%20%20AirLinkVPNBot%20%7C0078%7C
+vless://6fd27561-4daa-48bd-bd38-a80c27eb0f14@5.223.41.52:12459?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=2lcwk0zTV81vetC8_GaVlYqxLYy7pvplR4DcDchAal4&sid=d1&spiderX=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore
+trojan://ND91608427@sincere-gelding.rooster465.autos:443?security=tls&sni=sincere-gelding.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8%20USA
+trojan://ND91608427@tidy-gelding.rooster465.autos:443?security=tls&sni=tidy-gelding.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20115%20Akamai%20Technologies%2C%20Inc.
+trojan://ND91608427@tough-robin.rooster465.autos:443?security=tls&sni=tough-robin.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan
