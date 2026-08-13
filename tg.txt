@@ -1,7 +1,11 @@
 https://t.me/proxy?server=144.31.178.192&port=995&secret=dd7b74783ddade3cf358da69e493b83d05
-https://t.me/proxy?server=85.192.34.18&port=8443&secret=ee9e1dde0de02a2e7c22d10e2fff84101374676e6e2e6c697665
+https://t.me/proxy?server=212.233.89.12&port=443&secret=ddf390d9757cb92d87826bcef28a6e75ed
+https://t.me/proxy?server=31.76.240.187&port=443&secret=ee1e85242573e501cf6497d2d5704e8b95616e616c79746963732e6170702d6d6561737572656d656e742e636f6d
+https://t.me/proxy?server=90.156.216.188&port=8443&secret=ddee676f6f676c652e636f6de21ff0db1d
 https://t.me/proxy?server=fleet.telehelp.top&port=443&secret=ee77bbf78a169e505b117bc2c1df39463d666c6565742e74656c6568656c702e746f70
+https://t.me/proxy?server=gamma01.whiskeytangofoxtrot.lol&port=443&secret=ee1cdba265fa54e21f2cdbd50062d5449c67616d6d6130312e776869736b657974616e676f666f7874726f742e6c6f6c
 https://t.me/proxy?server=mt.corph.ru&port=443&secret=2ed7517b077ef414e24b106e0729335d
+https://t.me/proxy?server=nngo.cc&port=443&secret=ddf390d9757cb92d87826bcef28a6e75ed
 https://t.me/proxy?server=protect.prx.mom&port=443&secret=eee8dc90a0a7661d074e78ea12b84126bc70726f746563742e7072782e6d6f6d
 https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275
 https://t.me/proxy?server=prx03.gtgt.ru&port=443&secret=eeffb8ecadb37e893760b73778ed5a4ae974737665746f6d616e69612e7275
@@ -16,6 +20,6 @@ https://t.me/proxy?server=tg-proxy-1.potokvpn.com&port=993&secret=6c3eebd597e9fa
 https://t.me/proxy?server=tg.deepwoof.net&port=443&secret=ee6164732e78352e727530ac46ef4d53
 https://t.me/proxy?server=tg2.x6.homes&port=443&secret=dd9d137443c118caab90485732ae358230
 https://t.me/proxy?server=tg2.x6.homes&port=7443&secret=876b09f14db7c91c7db1989c38661f49
-https://t.me/proxy?server=tgnn.live&port=8443&secret=ee9e1dde0de02a2e7c22d10e2fff84101374676e6e2e6c697665
+https://t.me/proxy?server=tgnn.live&port=9443&secret=eef390d9757cb92d87826bcef28a6e75ed74676e6e2e6c697665
 https://t.me/proxy?server=vault.mtproxy.zip&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=veltaro.ru&port=443&secret=dd9dd5353c6c0485f0f64b1471c9f3d370
