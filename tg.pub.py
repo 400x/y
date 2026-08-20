@@ -8,7 +8,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>mtProto {}</title>
+    <title>mtProto</title>
     <meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1.0"/>
     <style>
         body {{ font-family: Courier; padding: 10px; }}
@@ -18,6 +18,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     </style>
 </head>
 <body>
+<h3>{}</h3>
 <ol>
 {}
 </ol>
@@ -48,7 +49,7 @@ def pub_tg(txt_file):
             if parsed:
                 lst.append(f'<li><a href="tg://proxy?{parsed.group(1)}">{parsed.group(2)}</a></li>')
 
-    now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
+    now = datetime.datetime.now().strftime("%d %b")
     htm = HTML_TEMPLATE.format(now, "\n".join(lst))
     htm_file = txt_file.with_suffix(".html")
     htm_file.write_text(htm, encoding="utf-8")
