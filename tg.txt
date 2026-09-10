@@ -1,6 +1,8 @@
-https://t.me/proxy?server=150.241.87.28&port=443&secret=eea339ca5cc76d3f7946a1356a63f0947d6d656675636b746f796f752e636f6d
+https://t.me/proxy?server=150.241.87.134&port=443&secret=ee6eea127ab3e6fb1fa010f00593fb4eda7a6f6f6d2e7573
 https://t.me/proxy?server=172.65.100.45&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-https://t.me/proxy?server=191.44.113.0&port=443&secret=ee3755c6a73b086bb59133938a3fee71397a6f6f6d2e7573
+https://t.me/proxy?server=191.44.113.191&port=443&secret=eea6796bf47be322d2c02b7f384582e1c77a6f6f6d2e7573
+https://t.me/proxy?server=193.233.211.58&port=443&secret=ee8ba5bd8f6b8d1d831b4a9356a9b080f26f7a6f6e2e7275
+https://t.me/proxy?server=193.233.211.59&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496d2e6265626f6f2e7275
 https://t.me/proxy?server=217.60.183.163&port=443&secret=eeae06570f240ffb8d3ac890e2433e85357777772e7472656e646d6963726f2e636f6d
 https://t.me/proxy?server=62.113.111.70&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
 https://t.me/proxy?server=85.192.34.18&port=9443&secret=eef390d9757cb92d87826bcef28a6e75ed74676e6e2e6c697665
@@ -13,6 +15,7 @@ https://t.me/proxy?server=cdn12.cdnwave.org&port=443&secret=ee97247322005404a2c7
 https://t.me/proxy?server=cdn5.cdnwave.org&port=443&secret=ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275
 https://t.me/proxy?server=freenet.ddnsgeek.com&port=443&secret=eef43cfa0cb4b1d1124643927f09de3c7b70696e7465726573742e636f6d
 https://t.me/proxy?server=mesh.eeluma.org&port=443&secret=eedcaae509a2455bbfc6165f1708fd5c586d6573682e65656c756d612e6f7267
+https://t.me/proxy?server=mt1-ge.sharedocs.online&port=443&secret=ee90ed4263c6ea40b404f7a926a8d2cf526d74312d67652e7368617265646f63732e6f6e6c696e65
 https://t.me/proxy?server=nngo.cc&port=443&secret=ddf390d9757cb92d87826bcef28a6e75ed
 https://t.me/proxy?server=proxy.tonservice.site&port=8443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=proxy2.bitstars.tg&port=443&secret=7p2XH2STQefDZOejT0VzWS5wcm94eTIuYml0c3RhcnMudGc
