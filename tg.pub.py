@@ -45,9 +45,9 @@ def pub_tg(txt_file):
     lst = []
     for line in sorted(content):
         if line.strip():
-            parsed = re.match(r"^.*?(server=(.+?)&.+)", line)
+            parsed = re.match(r"^.*?(proxy|webproxy)\?(server=(.+?)&.+)", line)
             if parsed:
-                lst.append(f'<li><a href="tg://proxy?{parsed.group(1)}">{parsed.group(2)}</a></li>')
+                lst.append(f'<li><a href="tg://{parsed.group(1)}?{parsed.group(2)}">{parsed.group(3)}</a></li>')
 
     now = datetime.datetime.now().strftime("%d %b")
     htm = HTML_TEMPLATE.format(now, "\n".join(lst))
