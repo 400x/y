@@ -17,7 +17,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         a {{ text-decoration: none }}
         li {{ padding: 2px; white-space: nowrap; font-weight: bold; transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); }}
         li.hidden {{ opacity: 0; transform: translateX(-20px); height: 0; padding: 0; margin: 0; pointer-events: none; }}
-        .age {{ color: #777; font-weight: normal; display:inline-block; width: 30px; }}
+        .age {{ color: #777; font-weight: normal; display:inline-block; width: 40px; }}
     </style>
 </head>
 <body>
