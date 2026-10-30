@@ -3,6 +3,7 @@ https://t.me/proxy?server=edge.tidalcache.com&port=443&secret=ee5c89ab20266ce759
 https://t.me/proxy?server=edge1.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf65646765312e746964616c63616368652e636f6d
 https://t.me/proxy?server=fb.fbinfo.ru&port=443&secret=eefda8d67559f12a7bae172be40bfc60cd73736c2e677374617469632e636f6d
 https://t.me/proxy?server=gram.blog&port=853&secret=ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75
+https://t.me/proxy?server=ksbcas2wvq.prooooooooooooooooxy.cfd&port=443&secret=ee75c6c92c094fc186f4e82d8d2d18dda36b7362636173327776712e70726f6f6f6f6f6f6f6f6f6f6f6f6f6f6f6f78792e636664
 https://t.me/proxy?server=matrixxx.top&port=853&secret=eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70
 https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
 https://t.me/proxy?server=mt1-ge.sharedocs.online&port=443&secret=ee90ed4263c6ea40b404f7a926a8d2cf526d74312d67652e7368617265646f63732e6f6e6c696e65
